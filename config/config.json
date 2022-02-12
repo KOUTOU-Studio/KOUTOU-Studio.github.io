@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x8F69C00bAB1A8f0C3EaD275f70a767645f299b0E",
-  "SCAN_LINK": "https://polygonscan.com/token/0x8F69C00bAB1A8f0C3EaD275f70a767645f299b0E",
+  "CONTRACT_ADDRESS": "0xb558334d268e6c44554d84f1510bec2289d5509e",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb558334d268e6c44554d84f1510bec2289d5509e",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Year of the tiger",
   "SYMBOL": "YOTT",
-  "MAX_SUPPLY": 1000,
+  "MAX_SUPPLY": 2022,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
