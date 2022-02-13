@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xb558334d268e6c44554d84f1510bec2289d5509e",
-  "SCAN_LINK": "https://polygonscan.com/token/0xb558334d268e6c44554d84f1510bec2289d5509e",
+  "CONTRACT_ADDRESS": "0xB558334D268e6c44554d84F1510BeC2289d5509E",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB558334D268e6c44554d84F1510BeC2289d5509E",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "Year of the tiger",
   "SYMBOL": "YOTT",
   "MAX_SUPPLY": 2022,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/year-of-the-tiger-v3",
   "SHOW_BACKGROUND": true
 }
